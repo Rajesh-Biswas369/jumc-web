@@ -31,7 +31,7 @@ export default function VideoBackground() {
       
       <video
         ref={videoRef}
-        src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260611_183632_c311af08-e4b7-458f-81e7-79847a49b3d3.mp4"
+        src="/videos/bg-loop.mp4"
         muted
         loop
         playsInline
